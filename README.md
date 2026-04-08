@@ -14,13 +14,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jadynzhang417&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadynzhang417&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jadynzhang417&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadynzhang417&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
 
 ## 🛠️ Featured Projects
 <!-- 这里展示你最得意的项目，替换为你的仓库名 -->
+
+<br>
 
 📫 How to reach me: [jadynzhang417@gmail.com](sslocal://flow/file_open?url=mailto%3Axxx%40xxx.com&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
